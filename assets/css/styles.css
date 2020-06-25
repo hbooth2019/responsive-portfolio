@@ -1,3 +1,20 @@
 body {
+    background-image: url(https://ichef.bbci.co.uk/images/ic/1200x675/p07fzlf0.jpg);
+    background-color:white;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 
 }
+
+.ColorUp {
+    background-color: white;
+}
+
+
+nav {
+    background-color: tomato;
+   
+  }
